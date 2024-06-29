@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon backend/server.js"
+    "start": "nodemon backend/index.js"
   },
   "author": "nikhil gupta",
   "license": "ISC",
